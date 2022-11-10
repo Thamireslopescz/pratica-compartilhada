@@ -6,3 +6,27 @@ font-size: 60px;
 img {
     width: 500px;
 }
+
+td, th {
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-size: 15px;
+}
+
+table {
+    text-align: center;
+    width: 100%;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid;
+    padding: 20px;
+}
+
+th {
+    border: 1px solid;
+    padding: 15px;
+    font-weight: bold;
+    background-color: rgba(251, 74, 4, 0.523);
+}
