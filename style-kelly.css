@@ -1,0 +1,42 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+       margin-left: auto;
+       margin-right: auto;
+}
+
+th,td {
+    border: 1px solid black;
+    padding: 10px 20px;
+}
+thead {
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
+
+.coluna-semana {
+    width: 100px;
+    text-align: center;
+}
+
+.h1 {
+    text-align: center;
+}
+.calendario {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+.relogio {
+    width: 30px;
+}
+.foot {
+    text-align: center;
+}
+.td3 {
+    text-align: center;
+}
